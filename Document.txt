@@ -1,0 +1,13 @@
+http://wp.dynamiclayers.net/charitian/
+
+---font---
+Work Sans,Open Sans
+
+---color---
+Pink: #fa575d
+
+---icon---
+fontawesome
+
+---Container---
+1170px
